@@ -1,0 +1,1 @@
+# localStorage_2.0
